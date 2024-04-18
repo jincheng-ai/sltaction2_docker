@@ -1,0 +1,3 @@
+[submodule "sltaction2"]
+	path = sltaction2
+	url = git@github.com:jincheng-ai/sltaction2.git
